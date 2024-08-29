@@ -1,0 +1,12 @@
+setup.py
+src/rabbitmq_scrapy/__init__.py
+src/rabbitmq_scrapy/connection.py
+src/rabbitmq_scrapy/defaults.py
+src/rabbitmq_scrapy/queue.py
+src/rabbitmq_scrapy/scheduler.py
+src/rabbitmq_scrapy/spiders.py
+src/rabbitmq_scrapy.egg-info/PKG-INFO
+src/rabbitmq_scrapy.egg-info/SOURCES.txt
+src/rabbitmq_scrapy.egg-info/dependency_links.txt
+src/rabbitmq_scrapy.egg-info/requires.txt
+src/rabbitmq_scrapy.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: scrapy_rabbitmq
+Version: 1.0.1
+Summary: Rabbitmq for Distributed scraping
+License: MIT
+Description-Content-Type: text/markdown
+Requires-Dist: pika
